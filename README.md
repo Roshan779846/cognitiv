@@ -28,7 +28,7 @@ Run the EEG file (assuming it is a Python script named eeg.py)
 Future Improvements(Involves making ML model to improve accuracy)
 
 `For future improvements, consider including a machine learning model to train on this EEG data for accurate predictions`.
-
+```bash
 -The steps would involve:
 
 -Data Preprocessing: Clean and preprocess the EEG data to make it suitable for machine learning.
@@ -39,7 +39,7 @@ Future Improvements(Involves making ML model to improve accuracy)
 -Hyperparameter Tuning: Optimize the model's hyperparameters.
 -Deployment: Deploy the trained model for real--time predictions on new EEG data.
 
-```bash
+
 
 
 # EEG Data Acquisition and Emotion Detection
